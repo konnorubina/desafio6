@@ -621,6 +621,7 @@ input{
 
 .main-workspace{
     margin-top: 100px;
+    overflow: scroll;
     
 }
 .contact-footer{
