@@ -618,3 +618,13 @@ input{
   95%{left: -400%; opacity: .6;}
   100%{left: -400%; opacity: 1;}
 }
+
+.main-workspace{
+    margin-top: 100px;
+    
+}
+
+.container{
+  display: flex;
+  column-gap: 10px ;
+}
