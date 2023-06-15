@@ -423,7 +423,8 @@ ul li p{
 .container{
   width: 80%;
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 100px;
+  
 }
 
 .container *{
@@ -621,7 +622,7 @@ input{
 
 .main-workspace{
     margin-top: 100px;
-    overflow:auto;
+  
  
     
 }
@@ -644,4 +645,28 @@ input{
 .portafolio{
   height: auto;
   width: auto;
+}
+.card {
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+  text-align: center;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.card h3 {
+  margin: 0;
+}
+
+.card p {
+  margin: 5px 0;
 }
